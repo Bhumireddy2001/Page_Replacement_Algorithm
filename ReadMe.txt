@@ -19,7 +19,7 @@ Installation
 
 Usage
     1.	Run the script:
-        python Page_Replacement_Algorithm
+        python Page_Replacement_Algorithm.py
 
     2.	View the output:
         •	The script will prompt you with the results for each algortithm.
